@@ -43,7 +43,7 @@
 |VOX        |1.25.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_VOX_V1.25.exe)|
 |VOX+       |1.25.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_VOX_V1.25.exe)|
 
-[Driver Prolific 2303](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/PL2303_Driver_v1.12.0.exe)
+[Driver Prolific 2303](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/PL2303_Driver_v1.12.0.exe) - 
 [Driver Prolific 23XX](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/PL23XX_Driver_v4.0.2.exe)
 
 ## Marca
