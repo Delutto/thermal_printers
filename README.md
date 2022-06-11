@@ -31,6 +31,7 @@
 |IM433TD        |1.9.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_Printers_v1.34_drv_1.9.exe)|
 |IM113ID        |1.9.0.0    |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_Printers_v1.34_drv_1.9.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_Printers_v1.34_drv_1.9.exe)|
 |IM402TD        |1.9.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_Printers_v1.34_drv_1.9.exe)|
+
 [Ativar Guilhotina](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Diebold_Ativar_Guilhotina.pdf)
 
 ## Elgin
@@ -41,6 +42,7 @@
 |i9         |1.7.3.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_i7_i9_v1.7.3.exe)|
 |VOX        |1.25.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_VOX_V1.25.exe)|
 |VOX+       |1.25.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_VOX_V1.25.exe)|
+
 [Driver Prolific 2303](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/PL2303_Driver_v1.12.0.exe)
 [Driver Prolific 23XX](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/PL23XX_Driver_v4.0.2.exe)
 
