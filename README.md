@@ -61,9 +61,9 @@
 ## Jetway
 | Modelo    |Versão     |Download                     |
 |-----------|-----------|-----------------------------|
-|JP-100     |2.61J.0.0  |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Jetway/Jetway_JMP-100_Driver_v2.61J.exe) - [USB Serial](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Utilities/Jetway_JMP-100_USB_Serial.zip) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JMP-100_PrinterTool.zip)|
-|JP-500     |7.17.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Jetway/Jetway_JP-500_Printer_Driver_v7.17.exe) - [USB Serial](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Utilities/Jetway_JP-500_Driver_USB_Serial.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-500_PrinterTest.zip)|
-|JP-800     |2.38E.0.0  |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Jetway/Jetway_JP-800_PrinterDriver_v2.38E.exe) - [USB Serial](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Utilities/Jetway_JP-800_PL23XX-M_LogoDriver_Setup.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-800_PrinterTool.zip)|
+|JP-100     |2.61J.0.0  |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Jetway/Jetway_JMP-100_Driver_v2.61J.exe) - [USB Serial](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JMP-100_USB_Serial.zip) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JMP-100_PrinterTool.zip)|
+|JP-500     |7.17.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Jetway/Jetway_JP-500_Printer_Driver_v7.17.exe) - [USB Serial](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-500_Driver_USB_Serial.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-500_PrinterTest.zip)|
+|JP-800     |2.38E.0.0  |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Jetway/Jetway_JP-800_PrinterDriver_v2.38E.exe) - [USB Serial](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-800_PL23XX-M_LogoDriver_Setup.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-800_PrinterTool.zip)|
 
 ## Perto
 | Modelo      |Versão     |Download                     |
@@ -73,14 +73,14 @@
 ## POS
 | Modelo    |Versão     |Download                     |
 |-----------|-----------|-----------------------------|
-|POS58      |11.3.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Utilities/POS_Utilities.exe)|
-|POS80      |11.3.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Utilities/POS_Utilities.exe)|
+|POS58      |11.3.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/POS_Utilities.exe)|
+|POS80      |11.3.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/POS_Utilities.exe)|
 
 ## Print ID
 | Modelo      |Versão     |Download                     |
 |--------------|-----------|-----------------------------|
-|PrintID       |1.1.10.2   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/PrintID/Print_iD_&_Print_iD_Touch_v1.1.10.2.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Utilities/PrintID_Utility_v1.0.exe)|
-|PrintID Touch |1.1.10.2   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/PrintID/Print_iD_&_Print_iD_Touch_v1.1.10.2.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Utilities/PrintID_Utility_v1.0.exe)||
+|PrintID       |1.1.10.2   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/PrintID/Print_iD_&_Print_iD_Touch_v1.1.10.2.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/PrintID_Utility_v1.0.exe)|
+|PrintID Touch |1.1.10.2   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/PrintID/Print_iD_&_Print_iD_Touch_v1.1.10.2.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/PrintID_Utility_v1.0.exe)||
 
 ## Sweda
 | Modelo    |Versão     |Download                     |
@@ -93,6 +93,6 @@
 | Modelo    |Versão     |Download                     |
 |-----------|-----------|-----------------------------|
 |TMP-500    |2.61T.0.0  |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TMP-500_v2.61T.exe)|
-|TP-509     |2.62.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TP-509_DriverInstall_v2.62.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Utilities/Tanca_TP-509_PrinterTool_v2.22.exe)|
-|TP-550     |8.1.1.2    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TP-550_Printer_Driver_v8.1.1.2.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Utilities/Tanca_TP-550_PrinterTool.exe)|
-|TP-650     |2.11.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TP-650_DriverInstall_v2.11.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Utilities/Tanca_TP-650_PrinterTool_1.48E.exe)|
+|TP-509     |2.62.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TP-509_DriverInstall_v2.62.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Tanca_TP-509_PrinterTool_v2.22.exe)|
+|TP-550     |8.1.1.2    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TP-550_Printer_Driver_v8.1.1.2.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Tanca_TP-550_PrinterTool.exe)|
+|TP-650     |2.11.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TP-650_DriverInstall_v2.11.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Tanca_TP-650_PrinterTool_1.48E.exe)|
