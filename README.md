@@ -29,7 +29,7 @@
 |IM693H-002     |1.9.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_Printers_v1.34_drv_1.9.exe)|
 |IM453HU        |1.9.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_Printers_v1.34_drv_1.9.exe)|
 |IM433TD        |1.9.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_Printers_v1.34_drv_1.9.exe)|
-|IM113ID        |1.9.0.0    |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_Printers_v1.34_drv_1.9.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_Printers_v1.34_drv_1.9.exe)|
+|IM113ID        |1.9.0.0    |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_Printers_v1.34_drv_1.9.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_IM113ID_v1.2.0.10_x64.exe)|
 |IM402TD        |1.9.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_Printers_v1.34_drv_1.9.exe)|
 
 [Ativar Guilhotina](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Diebold_Ativar_Guilhotina.pdf)
