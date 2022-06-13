@@ -1,0 +1,3 @@
+Parar Spooler e limpar diretório
+Abrir Control Printers
+printui /s /t2
