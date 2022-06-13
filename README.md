@@ -3,7 +3,7 @@
 ## Instalador Universal
 Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impressora que ele irá baixar e executar automaticamente o driver compatível com a versão do Windows onde está sendo executado.
 
-[Instalador Universal](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Universal_Installer/Output/Instalar_Impressora_0.9.exe)
+[Baixar Instalador Universal v0.9](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Universal_Installer/Output/Instalar_Impressora_0.9.exe)
 
 ## Bematech
 | Modelo         |Versão                |Download                     |
