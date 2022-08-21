@@ -9,7 +9,7 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 | Modelo         |Versão                |Download                     |
 |----------------|----------------------|-----------------------------|
 |MP-2500 TH      |4.4.0.3               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v4.4.0.3.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v4.4.0.3.exe)|
-|MP-2800 TH      |4.4.0.3               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v4.4.0.3.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v4.4.0.3.exe)|
+|MP-2800 TH      |1.3.0.0               |[Driver x86](hhttps://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/Bematech_MP_2800_SpoolerDrivers_v1.3.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/Bematech_MP_2800_SpoolerDrivers_v1.3.exe)|
 |MP-4000 TH      |6.0.1.0               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe)|
 |MP-4200 TH      |6.0.1.0               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe)|
 |MP-4200 TH ADV  |6.0.1.0               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe)|
@@ -17,7 +17,7 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 |MP-100S TH      |6.0.1.0               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe)|
 |PP-10           |6.0.1.0               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe)|
 
- [Utility x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.9.13_x86.exe) - [Utility x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.10.04_x64.exe)
+[Utility x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.9.13_x86.exe) - [Utility x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.10.04_x64.exe) - [MP-2800 TH Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_MP-2800_TH_Utility_v1.4.exe) - [BemaGhost](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/BemaGhost_v1.0.exe)
 
 ## Daruma
 | Modelo    |Versão     |Download                     |
