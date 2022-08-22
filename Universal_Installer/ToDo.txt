@@ -1,3 +1,6 @@
 Parar Spooler e limpar diretório
 Abrir Control Printers
 printui /s /t2
+
+hdwwiz.cpl (Gerenciador de Dispositivos)
+appwiz.cpl (Desinstalar Programa)

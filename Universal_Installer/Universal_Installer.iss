@@ -1,5 +1,5 @@
 #define MyAppName "Instalalar Impressora Térmica Não Fiscal"
-#define MyAppVersion "0.9"
+#define MyAppVersion "0.9.1"
 #define MyAppPublisher "Delutto"
 #define MyAppURL "https://github.com/Delutto/thermal_printers"
 #define MyAppExeName "MyProg.exe"
@@ -15,7 +15,7 @@ AppPublisherURL={#MyAppURL}
 AppSupportURL={#MyAppURL}
 AppUpdatesURL={#MyAppURL}
 CreateAppDir=no
-OutputBaseFilename=Instalar_Impressora_0.9
+OutputBaseFilename=Instalar_Impressora_0.9.1
 Compression=lzma2/ultra64
 SolidCompression=yes
 PrivilegesRequired=none
@@ -38,7 +38,7 @@ CustomForm_Label2_Caption0=Modelo
 CustomForm_ComboBoxModelo_Text0=Selecione o Modelo...
 CustomForm_ComboBoxMarca_Text0=Selecione a Marca...
 CustomForm_ComboBoxMarca_Strings=Bematech%nDaruma%nDiebold%nElgin%nEpson%nJetway%nPerto%nPOS%nPrintID%nSweda%nTanca
-BematechList=MP-2500 TH%nMP-4000 TH%nMP-4200 TH%nMP-4200 TH ADV%nMP-100S TH%nMP-5100 TH%nMP-2800 TH%nPP-10
+BematechList=MP-2500 TH%nMP-2800 TH%nMP-4000 TH%nMP-4200 TH%nMP-4200 TH ADV%nMP-100S TH%nMP-5100 TH%nPP-10
 DarumaList=DR700%nDR800%nFS700%nFS800
 DieboldList=TSP143MU%nMecaf Perfecta%nIM903TT%nIM693H-002%nIM453HU%nIM433TD%nIM113ID%nIM402TD
 ElginList=i7%ni8%ni9%nVOX%nVOX+%nNIX%nProlific 2303%nProlific 23XX
@@ -90,10 +90,24 @@ begin
    case ComboBoxMarca.ItemIndex of
       0: // Bematech
       begin
-         if IsWin64 then
-            URL := 'https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe'
-         else
-            URL := 'https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe';
+         case ComboBoxModelo.ItemIndex of
+            0: // MP-2500 TH
+            begin
+               if IsWin64 then
+                  URL := 'https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v4.4.0.3.exe'
+               else
+                  URL := 'https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v4.4.0.3.exe';   
+            end;
+            1: // MP-2800 TH
+               URL := 'https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/Bematech_MP_2800_SpoolerDrivers_v1.3.exe';
+            else // Outras...
+            begin
+               if IsWin64 then
+                  URL := 'https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe'
+               else
+                  URL := 'https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe';
+            end;
+         end;
       end;
       1: // Daruma
       begin
