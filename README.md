@@ -19,6 +19,14 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 
 [Utility x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.9.13_x86.exe) - [Utility x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.10.04_x64.exe) - [MP-2800 TH Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_MP-2800_TH_Utility_v1.4.exe) - [BemaGhost](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/BemaGhost_v1.0.exe)
 
+## Control ID
+| Modelo      |Versão     |Download                     |
+|--------------|-----------|-----------------------------|
+|PrintID       |1.1.10.2   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/PrintID/Print_iD_&_Print_iD_Touch_v1.1.10.2.exe)|
+|PrintID Touch |1.1.10.2   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/PrintID/Print_iD_&_Print_iD_Touch_v1.1.10.2.exe)|
+
+[Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/PrintID_Utility_v1.0.exe)
+
 ## Daruma
 | Modelo    |Versão     |Download                     |
 |-----------|-----------|-----------------------------|
@@ -85,20 +93,17 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 
 [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/POS_Utilities.exe)
 
-## Print ID
-| Modelo      |Versão     |Download                     |
-|--------------|-----------|-----------------------------|
-|PrintID       |1.1.10.2   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/PrintID/Print_iD_&_Print_iD_Touch_v1.1.10.2.exe)|
-|PrintID Touch |1.1.10.2   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/PrintID/Print_iD_&_Print_iD_Touch_v1.1.10.2.exe)|
-
- [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/PrintID_Utility_v1.0.exe)
-
 ## Sweda
 | Modelo    |Versão     |Download                     |
 |-----------|-----------|-----------------------------|
-|SI-300     |1.2.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe)|
+|SI-150     |1.0.0.1    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-150_SI-250_Drivers_v1.001.exe)|
+|SI-250     |1.0.0.1    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-150_SI-250_Drivers_v1.001.exe)|
+|SI-300L    |1.2.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe)|
+|SI-300L    |1.2.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe)|
 |SI-300E    |1.2.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe)|
 |SI300W     |1.2.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe)|
+
+[Utility SI-150-250](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Sweda_Utility_v1.524.exe) - [Utility SI-300](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Sweda_Utility_v2.03.exe)
 
 ## Tanca
 | Modelo    |Versão     |Download                     |
