@@ -3,7 +3,7 @@
 ## Instalador Universal
 Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impressora que ele irá baixar e executar automaticamente o driver compatível com a versão do Windows onde está sendo executado.
 
-[Baixar Instalador Universal v0.9.1](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Universal_Installer/Output/Instalar_Impressora_0.9.1.exe)
+[Baixar Instalador Universal v0.9.2](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Universal_Installer/Output/Instalar_Impressora_0.9.2.exe)
 
 ## Bematech
 | Modelo         |Versão                |Download                     |
@@ -76,7 +76,7 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 ## Jetway
 | Modelo    |Versão     |Download                     |
 |-----------|-----------|-----------------------------|
-|JP-100     |2.61J.0.0  |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Jetway/Jetway_JMP-100_Driver_v2.61J.exe) - [USB Serial](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JMP-100_USB_Serial.zip) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JMP-100_PrinterTool.zip)|
+|JMP-100     |2.61J.0.0  |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Jetway/Jetway_JMP-100_Driver_v2.61J.exe) - [USB Serial](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JMP-100_USB_Serial.zip) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JMP-100_PrinterTool.zip)|
 |JP-500     |7.17.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Jetway/Jetway_JP-500_Printer_Driver_v7.17.exe) - [USB Serial](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-500_Driver_USB_Serial.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-500_PrinterTest.zip)|
 |JP-800     |2.38E.0.0  |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Jetway/Jetway_JP-800_PrinterDriver_v2.38E.exe) - [USB Serial](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-800_PL23XX-M_LogoDriver_Setup.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-800_PrinterTool.zip)|
 
@@ -99,7 +99,7 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 |SI-150     |1.0.0.1    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-150_SI-250_Drivers_v1.001.exe)|
 |SI-250     |1.0.0.1    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-150_SI-250_Drivers_v1.001.exe)|
 |SI-300L    |1.2.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe)|
-|SI-300L    |1.2.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe)|
+|SI-300S    |1.2.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe)|
 |SI-300E    |1.2.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe)|
 |SI300W     |1.2.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe)|
 
