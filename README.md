@@ -55,7 +55,7 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 |---------------|-----------|-----------------------------|
 |D-Print Dual   |1.9.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Dimep/Dimep_D-PRINT_DUAL_v2.1.4.4.exe)|
 
-[VirtualCOM Windows 7 x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Dimep/VirtualCOM/Dimep_VirtualCOM_v1.5.0_W7_x86.exe) - [VirtualCOM Windows 7 x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Dimep/VirtualCOM/Dimep_VirtualCOM_v1.5.0_W7_x64.exe) - [VirtualCOM Windows 8 x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Dimep/VirtualCOM/Dimep_VirtualCOM_v1.5.0_W8_x86.exe) - [VirtualCOM Windows 7 x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Dimep/VirtualCOM/Dimep_VirtualCOM_v1.5.0_W8_x64.exe)
+[VirtualCOM Windows 7 x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Dimep/VirtualCOM/Dimep_VirtualCOM_v1.5.0_W7_x86.exe) - [VirtualCOM Windows 7 x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Dimep/VirtualCOM/Dimep_VirtualCOM_v1.5.0_W7_x64.exe) - [VirtualCOM Windows 8 x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Dimep/VirtualCOM/Dimep_VirtualCOM_v1.5.0_W8_x86.exe) - [VirtualCOM Windows 8 x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Dimep/VirtualCOM/Dimep_VirtualCOM_v1.5.0_W8_x64.exe)
 
 ## Elgin
 | Modelo    |Versão     |Download                     |
