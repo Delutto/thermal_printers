@@ -76,6 +76,7 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 |TM-T20     |5.6.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T20_v5.6.0.0.exe)|
 |TM-T20X    |6.1.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T20X_v6.1.0.0.exe)|
 |TM-T81     |15.0.0.498 |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T81_v15.0.0.498.exe)|
+|TM-T88 III |4.0.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_III_v4.exe) - [VirtualCOM](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_III_VirtualPort.exe)|
 |TM-T88 IV  |4.0.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_IV_4.0.0.0.exe)|
 |TM-T88 V   |5.6.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_V_v5.6.0.0.exe)|
 |TM-T88 VI  |5.11.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_VI_v5.11.0.0.exe)|
