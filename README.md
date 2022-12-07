@@ -108,10 +108,10 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 ## Menno
 | Modelo      |Versão     |Download                     |
 |-------------|-----------|-----------------------------|
-|IT 250       |2.52       |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Menno/Menno_Printer_Driver_v2.52.exe|
-|iTD 250      |2.52       |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Menno/Menno_Printer_Driver_v2.52.exe|
-|LT56050      |2.52       |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Menno/Menno_Printer_Driver_v2.52.exe|
-|LT76050      |2.52       |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Menno/Menno_Printer_Driver_v2.52.exe|
+|IT 250       |2.52       |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Menno/Menno_Printer_Driver_v2.52.exe)|
+|iTD 250      |2.52       |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Menno/Menno_Printer_Driver_v2.52.exe)|
+|LT56050      |2.52       |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Menno/Menno_Printer_Driver_v2.52.exe)|
+|LT76050      |2.52       |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Menno/Menno_Printer_Driver_v2.52.exe)|
 
 [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Menno_PrinterTool_v1.56.exe)
 
