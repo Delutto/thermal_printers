@@ -3,21 +3,22 @@
 ## Instalador Universal
 Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impressora que ele irá baixar e executar automaticamente o driver compatível com a versão do Windows onde está sendo executado.
 
-[Baixar Instalador Universal v0.9.2](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Universal_Installer/Output/Instalar_Impressora_0.9.2.exe)
+[Baixar Instalador Universal v0.9.2 !Desatualizado!)](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Universal_Installer/Output/Instalar_Impressora_0.9.2.exe)
 
 ## Bematech
 | Modelo         |Versão                |Download                     |
 |----------------|----------------------|-----------------------------|
 |MP-2500 TH      |4.4.0.3               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v4.4.0.3.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v4.4.0.3.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-2500.pdf)|
 |MP-2800 TH      |1.3.0.0               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/Bematech_MP_2800_SpoolerDrivers_v1.3.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/Bematech_MP_2800_SpoolerDrivers_v1.3.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-2800.pdf)|
-|MP-4000 TH      |6.0.1.0               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-4000.pdf)|
-|MP-4200 TH      |6.0.1.0               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-4200.pdf)|
+|MP-3000 TH      |   -                  |Deve ser instalada com o driver Generic do Windows|
+|MP-4000 TH      |5.0.0.4               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v5.0.0.4.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v5.0.0.4.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-4000.pdf)|
+|MP-4200 TH      |5.0.0.4               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v5.0.0.4.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v5.0.0.4.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-4200.pdf)|
 |MP-4200 TH ADV  |6.0.1.0               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe)|
-|MP-5100 TH      |6.0.1.0               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-5100.pdf)|
+|MP-5100 TH      |5.0.0.4               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v5.0.0.4.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v5.0.0.4.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-5100.pdf)|
 |MP-100S TH      |6.0.1.0               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-100S.pdf)|
 |PP-10           |6.0.1.0               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20PP-10.pdf)|
 
-[Utility x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.9.13_x86.exe) - [Utility x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.10.04_x64.exe) - [MP-2800 TH Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_MP-2800_TH_Utility_v1.4.exe) - [BemaGhost](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/BemaGhost_v1.0.exe)
+[Utility x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.9.13_x86.exe) - [Utility x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.10.04_x64.exe) - [USB2COM](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/Bematech_USBCOM_v4.0.2.exe) - [MP-2800 TH Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_MP-2800_TH_Utility_v1.4.exe) - [BemaGhost](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/BemaGhost_v1.0.exe)
 
 ## Control ID
 | Modelo       |Versão     |Download                     |
@@ -30,10 +31,10 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 ## Daruma
 | Modelo    |Versão     |Download                     |
 |-----------|-----------|-----------------------------|
-|DR700      |4.0.0.8    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Daruma/Daruma_DR700_Spooler_Driver_v4.0.0.8.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Daruma%20DR700.pdf)|
-|DR800      |2.0.1.7    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Daruma/Daruma_DR800_Spooler_Driver_v2.0.1.7.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Daruma%20DR800.pdf)|
-|FS700      |0.3.7.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Daruma/Daruma_FS700_v0.3.7.0.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Daruma%20FS700.pdf)|
-|FS800      |1.0.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Daruma/Daruma_FS800_v1.0.0.0.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Daruma%20FS800.pdf)|
+|DR700      |4.0.3.1    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Daruma/Daruma_700_Spooler_Driver_v4.0.3.1.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Daruma%20DR700.pdf)|
+|DR800      |2.0.1.7    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Daruma/Daruma_800_Spooler_Driver_v2.0.1.7.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Daruma%20DR800.pdf)|
+|FS700      |4.0.3.1    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Daruma/Daruma_700_Spooler_Driver_v4.0.3.1.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Daruma%20FS700.pdf)|
+|FS800      |2.0.1.7    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Daruma/Daruma_800_Spooler_Driver_v2.0.1.7.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Daruma%20FS800.pdf)|
 
 ## Diebold
 | Modelo        |Versão     |Download                     |
@@ -49,12 +50,20 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 
 [Ativar Guilhotina](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Diebold_Ativar_Guilhotina.pdf)
 
+## Dimep
+| Modelo        |Versão     |Download                     |
+|---------------|-----------|-----------------------------|
+|D-Print Dual   |1.9.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Dimep/Dimep_D-PRINT_DUAL_v2.1.4.4.exe)|
+
+[VirtualCOM Windows 7 x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Dimep/VirtualCOM/Dimep_VirtualCOM_v1.5.0_W7_x86.exe) - [VirtualCOM Windows 7 x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Dimep/VirtualCOM/Dimep_VirtualCOM_v1.5.0_W7_x64.exe) - [VirtualCOM Windows 8 x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Dimep/VirtualCOM/Dimep_VirtualCOM_v1.5.0_W8_x86.exe) - [VirtualCOM Windows 7 x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Dimep/VirtualCOM/Dimep_VirtualCOM_v1.5.0_W8_x64.exe)
+
 ## Elgin
 | Modelo    |Versão     |Download                     |
 |-----------|-----------|-----------------------------|
-|i7         |1.7.3.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_i7_i9_v1.7.3.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Elgin%20i7.pdf)|
-|i8         |2.0.1.7    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_i8_v7.1.7.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Elgin%20i8.pdf)|
-|i9         |1.7.3.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_i7_i9_v1.7.3.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Elgin%20i9.pdf)|
+|iX(i10)    |1.0.2.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_iX_v1.02.exe)|
+|i7         |1.7.3.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_i7_i9_v1.7.3.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Elgin%20i7.pdf) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Elgin_i7-i8_Utility_v3.2.exe)|
+|i8         |2.0.1.7    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_i8_v7.1.7.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Elgin%20i8.pdf) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Elgin_i7-i8_Utility_v3.2.exe)|
+|i9         |1.7.3.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_i7_i9_v1.7.3.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Elgin%20i9.pdf) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Elgin_i9_Utility_v1.2.2.24.exe)|
 |VOX        |1.25.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_VOX_V1.25.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Elgin%20VOX.pdf)|
 |VOX+       |1.25.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_VOX_V1.25.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Elgin%20VOX%2B.pdf)|
 
@@ -73,6 +82,16 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 
 [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Epson_NetConfig_v4_9_5.exe)
 
+## Evadin
+| Modelo    |Versão     |Download                     |
+|-----------|-----------|-----------------------------|
+|EP-26M     |11.3.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe)|
+
+## Gainscha
+| Modelo    |Versão     |Download                     |
+|-----------|-----------|-----------------------------|
+|Todos      |2020.1     |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Gainscha/Gainscha_GPrinterDrivers_v2020.1.exe)|
+
 ## Gertec
 | Modelo    |Versão     |Download                     |
 |-----------|-----------|-----------------------------|
@@ -84,6 +103,16 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 |JMP-100    |2.61J.0.0  |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Jetway/Jetway_JMP-100_Driver_v2.61J.exe) - [USB Serial](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JMP-100_USB_Serial.zip) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JMP-100_PrinterTool.zip) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Jetway%20JMP-100.pdf)|
 |JP-500     |7.17.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Jetway/Jetway_JP-500_Printer_Driver_v7.17.exe) - [USB Serial](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-500_Driver_USB_Serial.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-500_PrinterTest.zip) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Jetway%20JP-500.pdf)|
 |JP-800     |2.38E.0.0  |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Jetway/Jetway_JP-800_PrinterDriver_v2.38E.exe) - [USB Serial](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-800_PL23XX-M_LogoDriver_Setup.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-800_PrinterTool.zip) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Jetway%20JP-800.pdf)|
+
+## Menno
+| Modelo      |Versão     |Download                     |
+|-------------|-----------|-----------------------------|
+|IT 250       |2.52       |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Menno/Menno_Printer_Driver_v2.52.exe|
+|iTD 250      |2.52       |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Menno/Menno_Printer_Driver_v2.52.exe|
+|LT56050      |2.52       |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Menno/Menno_Printer_Driver_v2.52.exe|
+|LT76050      |2.52       |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Menno/Menno_Printer_Driver_v2.52.exe|
+
+[Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Menno_PrinterTool_v1.56.exe)
 
 ## Perto
 | Modelo      |Versão     |Download                     |
@@ -97,6 +126,28 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 |POS80      |11.3.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe)|
 
 [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/POS_Utilities.exe)
+
+## Star
+| Modelo    |Versão     |Download                     |
+|-----------|-----------|-----------------------------|
+|BSC10      |2.1.0      |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_BSC10_Drivers_v2.1_x86.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_BSC10_Drivers_v2.1_x64.exe)|
+|FVP10      |3.7.2      |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe)|
+|MCP20      |3.1.1      |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.1.1.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.1.1.exe)|
+|MCP21      |3.1.1      |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.1.1.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.1.1.exe)|
+|MCP30      |3.1.1      |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.1.1.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.1.1.exe)|
+|MCP31      |3.1.1      |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.1.1.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.1.1.exe)|
+|POP10      |3.1.1      |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.1.1.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.1.1.exe)|
+|SP512      |3.7.2      |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe)|
+|SP542      |3.7.2      |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe)|
+|SP712      |3.7.2      |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe)|
+|SP717      |3.7.2      |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe)|
+|SP742      |3.7.2      |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe)|
+|SP747      |3.7.2      |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe)|
+|TSP043     |2.1.0      |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_TSP043_x86_v2.1.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_TSP043_x64_v2.1.exe)|
+|TSP143IVUE |3.1.1      |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.1.1.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.1.1.exe)|
+|TSP650II   |3.7.2      |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe)|
+|TSP700II   |3.7.2      |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe)|
+|TSP800II   |3.7.2      |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe)|
 
 ## Sweda
 | Modelo    |Versão     |Download                     |
