@@ -36,6 +36,8 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 |FS700      |4.0.3.1    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Daruma/Daruma_700_Spooler_Driver_v4.0.3.1.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Daruma%20FS700.pdf)|
 |FS800      |2.0.1.7    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Daruma/Daruma_800_Spooler_Driver_v2.0.1.7.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Daruma%20FS800.pdf)|
 
+[Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Daruma_Utility_v2.20.9.exe)
+
 ## Diebold
 | Modelo        |Versão     |Download                     |
 |---------------|-----------|-----------------------------|
