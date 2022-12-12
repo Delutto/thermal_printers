@@ -5,6 +5,11 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 
 [Baixar Instalador Universal v0.9.2 !Desatualizado!](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Universal_Installer/Output/Instalar_Impressora_0.9.2.exe)
 
+## Argox
+| Modelo         |Versão                |Download                     |
+|----------------|----------------------|-----------------------------|
+|Todos           |2022.1                |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Argox/Argox_PrinterDrivers_v2022.1.exe)
+
 ## Bematech
 | Modelo         |Versão                |Download                     |
 |----------------|----------------------|-----------------------------|
