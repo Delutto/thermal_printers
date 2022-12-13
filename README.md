@@ -5,7 +5,9 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 
 [Baixar Instalador Universal v0.9.2 !Desatualizado!](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Universal_Installer/Output/Instalar_Impressora_0.9.2.exe)
 
-[Argox](#Argox) | [Bematech](#Bematech) | [Control ID](#Control ID) | [Daruma](#Daruma) | [Dascom](#Dascom)
+
+### Marcas
+[Argox](#Argox) | [Bematech](#Bematech) | [Control ID](#Control-ID) | [Daruma](#Daruma) | [Dascom](#Dascom) | [Diebold](#Diebold) | [Dimep](#Dimep) | [Elgin](#Elgin) | [Epson](#Epson) | [Evadin](#Evadin) | [Gainscha](#Gainscha) | [Gertec](#Gertec) | [Jetway](#Jetway) | [Menno](#Menno) | [Perto](#Perto) | [POS](#POS) | [Star](#Star) | [Sweda](#Sweda) | [Tanca](#Tanca) | [Waytec](#Waytec)
 
 ## Argox
 | Modelo         |Versão                |Download                     |
