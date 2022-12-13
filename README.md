@@ -43,6 +43,12 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 
 [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Daruma_Utility_v2.20.9.exe)
 
+## Dascom
+| Modelo       |Versão     |Download                     |
+|--------------|-----------|-----------------------------|
+|DT-210        |1.0.0.7    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Dascom/Dascom_DT-210_DT-230_Driver_v1.0.0.7.exe)|
+|DT-230        |1.0.0.7    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Dascom/Dascom_DT-210_DT-230_Driver_v1.0.0.7.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Dascom_DT-230.pdf)|
+
 ## Diebold
 | Modelo        |Versão     |Download                     |
 |---------------|-----------|-----------------------------|
@@ -176,3 +182,11 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 |TP-509     |2.62.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TP-509_DriverInstall_v2.62.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Tanca_TP-509_PrinterTool_v2.22.exe)|
 |TP-550     |8.1.1.2    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TP-550_Printer_Driver_v8.1.1.2.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Tanca_TP-550_PrinterTool.exe)|
 |TP-650     |2.11.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TP-650_DriverInstall_v2.11.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Tanca_TP-650_PrinterTool_1.48E.exe)|
+
+## Waytec
+| Modelo    |Versão     |Download                     |
+|-----------|-----------|-----------------------------|
+|WP-50      |7.17.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Waytec/WayTec_WP-50_Driver_v7.17.50.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/c7c765698f77fc6cbf4338af53eb7f9281705d39/Manuals/Waytec_WP-50.pdf)|
+|WP-100     |7.17.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Waytec/Waytec_WP-100_Driver_v7.17.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/c7c765698f77fc6cbf4338af53eb7f9281705d39/Manuals/Waytec_WP-50.pdf)|
+
+[Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Waytec_Utility_v3.2.0.1.exe)
