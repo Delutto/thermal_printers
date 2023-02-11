@@ -11,6 +11,7 @@ Com o Instalador Universal, basta você selecionar a Marca e o Modelo da impress
 
 ## Abrir o Control Printers clássico no Windows 11 atualizado.
 Rodar o seguinte comando no Executar:
+
 explorer shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}
 
 ## Argox
