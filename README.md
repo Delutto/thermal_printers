@@ -11,7 +11,7 @@ Rodar o seguinte comando no Executar:
 explorer shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}
 
 ### Marcas
-[Argox](#Argox) | [Bematech](#Bematech) | [Control ID](#Control-ID) | [Daruma](#Daruma) | [Dascom](#Dascom) | [Diebold](#Diebold) | [Dimep](#Dimep) | [Elgin](#Elgin) | [Epson](#Epson) | [Evadin](#Evadin) | [Gainscha](#Gainscha) | [Gertec](#Gertec) | [Jetway](#Jetway) | [Menno](#Menno) | [Perto](#Perto) | [POS](#POS) | [Star](#Star) | [Sweda](#Sweda) | [Tanca](#Tanca) | [Waytec](#Waytec)
+[Argox](#Argox) | [Bematech](#Bematech) | [Control ID](#Control-ID) | [Daruma](#Daruma) | [Dascom](#Dascom) | [Diebold](#Diebold) | [Dimep](#Dimep) | [Elgin](#Elgin) | [Epson](#Epson) | [Evadin](#Evadin) | [Feasso](#Feasso) | [Gainscha](#Gainscha) | [Gertec](#Gertec) | [Jetway](#Jetway) | [Ledtec](#Ledtec) | [Mafra](#Mafra) | [Menno](#Menno) | [Oi Vida](#Oi Vida) | [Perto](#Perto) | [POS](#POS) | [Star](#Star) | [Sweda](#Sweda) | [Tanca](#Tanca) | [Waytec](#Waytec)
 
 ## Argox
 | Modelo         |Versão                |Download                     |
