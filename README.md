@@ -24,11 +24,11 @@ explorer shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}
 |MP-2500 TH      |4.4.0.3               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v4.4.0.3.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v4.4.0.3.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-2500.pdf)|
 |MP-2800 TH      |1.3.0.0               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/Bematech_MP_2800_SpoolerDrivers_v1.3.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/Bematech_MP_2800_SpoolerDrivers_v1.3.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-2800.pdf)|
 |MP-3000 TH      |   -                  |Deve ser instalada com o driver Generic do Windows|
-|MP-4000 TH      |5.0.0.4               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v5.0.0.4.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v5.0.0.4.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-4000.pdf)|
-|MP-4200 TH      |5.0.0.4               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v5.0.0.4.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v5.0.0.4.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-4200.pdf)|
+|MP-4000 TH      |4.4.0.3               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v4.4.0.3.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v4.4.0.3.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-4000.pdf)|
+|MP-4200 TH      |4.4.0.3               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v4.4.0.3.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v4.4.0.3.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-4200.pdf)|
 |MP-4200 TH ADV  |6.0.1.0               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe)|
 |MP-5100 TH      |5.0.0.4               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v5.0.0.4.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v5.0.0.4.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-5100.pdf)|
-|MP-100S TH      |6.0.1.0               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-100S.pdf)|
+|MP-100S TH      |4.4.0.3               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v4.4.0.3.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v4.4.0.3.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-100S.pdf)|
 |PP-10           |6.0.1.0               |[Driver x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe) - [Driver x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20PP-10.pdf)|
 
 [Utility x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.9.13_x86.exe) - [Utility x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.10.04_x64.exe) - [VirtualCOM](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/Bematech_USBCOM_v4.0.2.exe) - [MP-2800 TH Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_MP-2800_TH_Utility_v1.4.exe) - [BemaGhost](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/BemaGhost_v1.0.exe)
@@ -88,6 +88,7 @@ explorer shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}
 |VOX        |1.25.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_VOX_V1.25.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Elgin%20VOX.pdf)|
 |VOX+       |1.25.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_VOX_V1.25.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Elgin%20VOX%2B.pdf)|
 
+[Driver Prolific Windows 11](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Serial_Virtual_W11_(PL2303v206).exe) - 
 [Driver Prolific 2303](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/PL2303_Driver_v1.12.0.exe) - 
 [Driver Prolific 23XX](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/PL23XX_Driver_v4.0.2.exe)
 
@@ -101,6 +102,7 @@ explorer shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}
 |TM-T88 IV  |4.0.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_IV_4.0.0.0.exe)|
 |TM-T88 V   |5.6.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_V_v5.6.0.0.exe)|
 |TM-T88 VI  |5.11.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_VI_v5.11.0.0.exe)|
+|TM-T88 VI  |6.7.1.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_VII_Driver_v6.7.1.0.exe)|
 
 [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Epson_NetConfig_v4_9_5.exe)
 
@@ -108,6 +110,13 @@ explorer shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}
 | Modelo    |Versão     |Download                     |
 |-----------|-----------|-----------------------------|
 |EP-26M     |11.3.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe)|
+
+## Feasso
+| Modelo    |Versão     |Download                     |
+|-----------|-----------|-----------------------------|
+|F-IMTER-01 |1.7.0.0   	|[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Feasso/Feasso_F-IMTER-01_Driver_v1.7.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/ee0aee36e858aeb05141eb49a0330e9daf73b553/Feasso/Feasso%20F-IMTER01.pdf)|
+|F-IMTER-02 |2.0.0.0   	|[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Feasso/Feasso_F-IMTER-02_Driver_v2.0.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/ee0aee36e858aeb05141eb49a0330e9daf73b553/Feasso/Feasso%20F-IMTER02.pdf)|
+|F-IMTER-03 |1.5.0.0   	|[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Feasso/Feasso_F-IMTER-03_Driver_v1.5.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/ee0aee36e858aeb05141eb49a0330e9daf73b553/Feasso/Feasso%20F-IMTER%2003.pdf)|
 
 ## Gainscha
 | Modelo    |Versão     |Download                     |
@@ -126,6 +135,16 @@ explorer shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}
 |JP-500     |7.17.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Jetway/Jetway_JP-500_Printer_Driver_v7.17.exe) - [USB Serial](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-500_Driver_USB_Serial.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-500_PrinterTest.zip) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Jetway%20JP-500.pdf)|
 |JP-800     |2.38E.0.0  |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Jetway/Jetway_JP-800_PrinterDriver_v2.38E.exe) - [USB Serial](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-800_PL23XX-M_LogoDriver_Setup.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-800_PrinterTool.zip) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Jetway%20JP-800.pdf)|
 
+## Ledtec
+| Modelo    |Versão     |Download                     |
+|-----------|-----------|-----------------------------|
+|PMF		|1.0.0.0	|[Driver Win7 x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Ledtec/ENGWORKS_Printers_Win7_x86.exe) - [Driver Win7 x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Ledtec/ENGWORKS_Printers_Win7_x64.exe) - [Driver Win10 x86](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Ledtec/ENGWORKS_Printers_Win8_10_x86.exe) - [Driver Win10 x64](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Ledtec/ENGWORKSPrinters_Win8_10_x64.exe)|
+
+## Mafra
+| Modelo	|Versão     |Download                     |
+|-----------|-----------|-----------------------------|
+|Mafra		|11.3.0.0	|[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe)|
+
 ## Menno
 | Modelo      |Versão     |Download                     |
 |-------------|-----------|-----------------------------|
@@ -135,6 +154,14 @@ explorer shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}
 |LT76050      |2.52       |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Menno/Menno_Printer_Driver_v2.52.exe)|
 
 [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Menno_PrinterTool_v1.56.exe)
+
+## Oi Vida
+| Modelo    |Versão     |Download                     |
+|-----------|-----------|-----------------------------|
+|OI-58H		|11.3.0.0	|[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe)|
+|OI-1005	|11.3.0.0	|[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe)|
+|OI-1007	|11.3.0.0	|[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe)|
+|OI-1006	|11.3.0.0	|[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe)|
 
 ## Perto
 | Modelo      |Versão     |Download                     |
@@ -187,8 +214,10 @@ explorer shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}
 | Modelo    |Versão     |Download                     |
 |-----------|-----------|-----------------------------|
 |TMP-500    |2.61T.0.0  |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TMP-500_v2.61T.exe)|
+|TP-450     |2.29E.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TP-450_Driver_v2.29E.exe)|
 |TP-509     |2.62.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TP-509_DriverInstall_v2.62.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Tanca_TP-509_PrinterTool_v2.22.exe)|
 |TP-550     |8.1.1.2    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TP-550_Printer_Driver_v8.1.1.2.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Tanca_TP-550_PrinterTool.exe)|
+|TP-620     |6.1.0.0   	|[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TP-620_Driver_v6.1.0.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Tanca_TP-620_Utility_v3.2.0.1.exe)|
 |TP-650     |2.11.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TP-650_DriverInstall_v2.11.exe) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Tanca_TP-650_PrinterTool_1.48E.exe)|
 
 ## Waytec
