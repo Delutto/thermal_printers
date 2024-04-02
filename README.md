@@ -1,5 +1,9 @@
 # Impressoras Térmica
 
+## Ferramentas Auxiliares
+[Instalador Universal](https://github.com/Delutto/instalador_universal)
+[NetStatGUI](https://github.com/Delutto/NetStatGUI)
+
 ## Abrir o Control Printers clássico no Windows 11 atualizado.
 Rodar o seguinte comando no Executar:
 
