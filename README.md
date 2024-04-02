@@ -87,6 +87,7 @@ explorer shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}
 |i9         |1.7.3.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_i7_i9_v1.7.3.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Elgin%20i9.pdf) - [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Elgin_i9_Utility_v1.2.2.24.exe)|
 |VOX        |1.25.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_VOX_V1.25.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Elgin%20VOX.pdf)|
 |VOX+       |1.25.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_VOX_V1.25.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Elgin%20VOX%2B.pdf)|
+|NIX        |3.3.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_NIX_Driver_v2.3.0.0.exe) - [Manual]()|
 
 [Driver Prolific Windows 11](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Serial_Virtual_W11_(PL2303v206).exe) - 
 [Driver Prolific 2303](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/PL2303_Driver_v1.12.0.exe) - 
@@ -102,7 +103,7 @@ explorer shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}
 |TM-T88 IV  |4.0.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_IV_4.0.0.0.exe)|
 |TM-T88 V   |5.6.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_V_v5.6.0.0.exe)|
 |TM-T88 VI  |5.11.0.0   |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_VI_v5.11.0.0.exe)|
-|TM-T88 VI  |6.7.1.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_VII_Driver_v6.7.1.0.exe)|
+|TM-T88 VII |6.7.1.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_VII_Driver_v6.7.1.0.exe)|
 
 [Utility](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Epson_NetConfig_v4_9_5.exe)
 
