@@ -1,0 +1,1127 @@
+{
+  "printers": {
+    "Argox": [
+      {
+        "modelo": "Todos os modelos",
+        "versao": "2022.1",
+        "observacao": null,
+        "download": {
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Argox/Argox_PrinterDrivers_v2022.1.exe",
+          "driver_x86": null,
+          "utility": null
+        }
+      }
+    ],
+    "Bematech": [
+      {
+        "modelo": "LR-1100",
+        "versao": "4.2.1.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BemaSetup_LR_x32_v4.2.1.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BemaSetup_LR_x64_v4.2.1.exe",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.10.04_x64.exe",
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech_LR1100_Manual.pdf"
+        }
+      },
+      {
+        "modelo": "LR-2000",
+        "versao": "4.2.1.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BemaSetup_LR_x32_v4.2.1.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BemaSetup_LR_x64_v4.2.1.exe",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.10.04_x64.exe",
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech_LR2000_Manual.pdf"
+        }
+      },
+      {
+        "modelo": "MP-2500 TH",
+        "versao": "4.4.0.3",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v4.4.0.3.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v4.4.0.3.exe",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.10.04_x64.exe",
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-2500.pdf"
+        }
+      },
+      {
+        "modelo": "MP-2800 TH",
+        "versao": "1.3.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/Bematech_MP_2800_SpoolerDrivers_v1.3.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/Bematech_MP_2800_SpoolerDrivers_v1.3.exe",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_MP-2800_TH_Utility_v1.4.exe",
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-2800.pdf"
+        }
+      },
+      {
+        "modelo": "MP-3000 TH",
+        "versao": null,
+        "observacao": "Deve ser instalada com o driver Generic do Windows",
+        "download": {
+          "driver_x86": null,
+          "driver_x64": null,
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.10.04_x64.exe"
+        }
+      },
+      {
+        "modelo": "MP-4000 TH",
+        "versao": "4.4.0.3",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v4.4.0.3.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v4.4.0.3.exe",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.10.04_x64.exe",
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-4000.pdf"
+        }
+      },
+      {
+        "modelo": "MP-4200 HS",
+        "versao": "1.7.7.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": null,
+          "driver": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/Bematech%20MP-4200-HS_Driver_v1.7.7.exe",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.10.04_x64.exe",
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/3c179594151df435c1e1a1d8a1d5c51419e879af/Manuals/Bematech%20MP-4200%20HS.pdf"
+        }
+      },
+      {
+        "modelo": "MP-4200 TH",
+        "versao": "4.4.0.3",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v4.4.0.3.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v4.4.0.3.exe",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.10.04_x64.exe",
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-4200.pdf"
+        }
+      },
+      {
+        "modelo": "MP-4200 TH ADV",
+        "versao": "6.0.1.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.10.04_x64.exe"
+        }
+      },
+      {
+        "modelo": "MP-5100 TH",
+        "versao": "5.0.0.4",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v5.0.0.4.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v5.0.0.4.exe",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.10.04_x64.exe",
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-5100.pdf"
+        }
+      },
+      {
+        "modelo": "MP-100S TH",
+        "versao": "4.4.0.3",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v4.4.0.3.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v4.4.0.3.exe",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.10.04_x64.exe",
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20MP-100S.pdf"
+        }
+      },
+      {
+        "modelo": "PP-10",
+        "versao": "6.0.1.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Bematech_Utility_v2.10.04_x64.exe",
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Bematech%20PP-10.pdf"
+        }
+      }
+    ],
+    "Control ID": [
+      {
+        "modelo": "PrintID",
+        "versao": "1.1.10.2",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/PrintID/Print_iD_&_Print_iD_Touch_v1.1.10.2.exe",
+          "driver_x64": null,
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/PrintID_Utility_v1.0.exe",
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Control%20iD%20Print%20iD%20Touch.pdf"
+        }
+      },
+      {
+        "modelo": "PrintID Touch",
+        "versao": "1.1.10.2",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/PrintID/Print_iD_&_Print_iD_Touch_v1.1.10.2.exe",
+          "driver_x64": null,
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/PrintID_Utility_v1.0.exe",
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Control%20iD%20Print%20iD.pdf"
+        }
+      }
+    ],
+    "Daruma": [
+      {
+        "modelo": "DR700",
+        "versao": "4.0.3.1",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Daruma/Daruma_700_Spooler_Driver_v4.0.3.1.exe",
+          "driver_x64": null,
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Daruma_Utility_v2.20.9.exe",
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Daruma%20DR700.pdf"
+        }
+      },
+      {
+        "modelo": "DR800",
+        "versao": "2.0.1.7",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Daruma/Daruma_800_Spooler_Driver_v2.0.1.7.exe",
+          "driver_x64": null,
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Daruma_Utility_v2.20.9.exe",
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Daruma%20DR800.pdf"
+        }
+      },
+      {
+        "modelo": "FS700",
+        "versao": "4.0.3.1",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Daruma/Daruma_700_Spooler_Driver_v4.0.3.1.exe",
+          "driver_x64": null,
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Daruma_Utility_v2.20.9.exe",
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Daruma%20FS700.pdf"
+        }
+      },
+      {
+        "modelo": "FS800",
+        "versao": "2.0.1.7",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Daruma/Daruma_800_Spooler_Driver_v2.0.1.7.exe",
+          "driver_x64": null,
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Daruma_Utility_v2.20.9.exe",
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Daruma%20FS800.pdf"
+        }
+      }
+    ],
+    "Dascom": [
+      {
+        "modelo": "DT-210",
+        "versao": "1.0.0.7",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Dascom/Dascom_DT-210_DT-230_Driver_v1.0.0.7.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "DT-230",
+        "versao": "1.0.0.7",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Dascom/Dascom_DT-210_DT-230_Driver_v1.0.0.7.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Dascom_DT-230.pdf"
+        }
+      }
+    ],
+    "Diebold": [
+      {
+        "modelo": "TSP143MU",
+        "versao": "1.9.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_Printers_v1.34_drv_1.9.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "Mecaf Perfecta",
+        "versao": "1.9.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_Printers_v1.34_drv_1.9.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Diebold%20Mecaf%20Perfecta.pdf"
+        }
+      },
+      {
+        "modelo": "IM903TT",
+        "versao": "1.0.1.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_IM903TT_1.0.1.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "IM693H-002",
+        "versao": "1.9.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_Printers_v1.34_drv_1.9.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "IM453HU",
+        "versao": "1.9.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_Printers_v1.34_drv_1.9.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "IM433TD",
+        "versao": "1.9.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_Printers_v1.34_drv_1.9.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "IM113ID",
+        "versao": "1.9.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_Printers_v1.34_drv_1.9.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_IM113ID_v1.2.0.10_x64.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "IM402TD",
+        "versao": "1.9.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Diebold/Diebold_Printers_v1.34_drv_1.9.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Dimep": [
+      {
+        "modelo": "D-Print Dual",
+        "versao": "1.9.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Dimep/Dimep_D-PRINT_DUAL_v2.1.4.4.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Elgin": [
+      {
+        "modelo": "iX(i10)",
+        "versao": "1.0.2.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_iX_v1.02.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "i7",
+        "versao": "1.7.3.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_i7_i9_v1.7.3.exe",
+          "driver_x64": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Elgin%20i7.pdf",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Elgin_i7-i8_Utility_v3.2.exe"
+        }
+      },
+      {
+        "modelo": "i8",
+        "versao": "2.0.1.7",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_i8_v7.1.7.exe",
+          "driver_x64": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Elgin%20i8.pdf",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Elgin_i7-i8_Utility_v3.2.exe"
+        }
+      },
+      {
+        "modelo": "i9",
+        "versao": "1.7.3.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_i7_i9_v1.7.3.exe",
+          "driver_x64": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Elgin%20i9.pdf",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Elgin_i9_Utility_v1.2.2.24.exe"
+        }
+      },
+      {
+        "modelo": "VOX",
+        "versao": "1.25.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_VOX_V1.25.exe",
+          "driver_x64": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Elgin%20VOX.pdf"
+        }
+      },
+      {
+        "modelo": "VOX+",
+        "versao": "1.25.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_VOX_V1.25.exe",
+          "driver_x64": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Elgin%20VOX%2B.pdf"
+        }
+      },
+      {
+        "modelo": "NIX",
+        "versao": "3.3.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Elgin/Elgin_NIX_Driver_v2.3.0.0.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Epson": [
+      {
+        "modelo": "TM-T20",
+        "versao": "5.6.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T20_v5.6.0.0.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TM-T20X",
+        "versao": "6.1.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T20X_v6.1.0.0.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TM-T81",
+        "versao": "15.0.0.498",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T81_v15.0.0.498.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TM-T88 III",
+        "versao": "4.0.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_III_v4.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null,
+          "virtualcom": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_III_VirtualPort.exe"
+        }
+      },
+      {
+        "modelo": "TM-T88 IV",
+        "versao": "4.0.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_IV_4.0.0.0.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TM-T88 V",
+        "versao": "5.6.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_V_v5.6.0.0.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TM-T88 VI",
+        "versao": "5.11.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_VI_v5.11.0.0.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TM-T88 VII",
+        "versao": "6.7.1.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_VII_Driver_v6.7.1.0.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Evadin": [
+      {
+        "modelo": "EP-26M",
+        "versao": "11.3.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Feasso": [
+      {
+        "modelo": "F-IMTER-01",
+        "versao": "1.7.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Feasso/Feasso_F-IMTER-01_Driver_v1.7.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/ee0aee36e858aeb05141eb49a0330e9daf73b553/Feasso/Feasso%20F-IMTER01.pdf"
+        }
+      },
+      {
+        "modelo": "F-IMTER-02",
+        "versao": "2.0.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Feasso/Feasso_F-IMTER-02_Driver_v2.0.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/ee0aee36e858aeb05141eb49a0330e9daf73b553/Feasso/Feasso%20F-IMTER02.pdf"
+        }
+      },
+      {
+        "modelo": "F-IMTER-03",
+        "versao": "1.5.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Feasso/Feasso_F-IMTER-03_Driver_v1.5.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/ee0aee36e858aeb05141eb49a0330e9daf73b553/Feasso/Feasso%20F-IMTER%2003.pdf"
+        }
+      }
+    ],
+    "Gainscha": [
+      {
+        "modelo": "Todos",
+        "versao": "2020.1",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Gainscha/Gainscha_GPrinterDrivers_v2020.1.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Gertec": [
+      {
+        "modelo": "G250",
+        "versao": "1.1.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Gertec/Driver-G250-Spooler_VCOM-v1.1.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Gertec%20G250.pdf"
+        }
+      }
+    ],
+    "Jetway": [
+      {
+        "modelo": "JMP-100",
+        "versao": "2.61J.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Jetway/Jetway_JMP-100_Driver_v2.61J.exe",
+          "driver_x64": null,
+          "usb_serial": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JMP-100_USB_Serial.zip",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JMP-100_PrinterTool.zip",
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Jetway%20JMP-100.pdf"
+        }
+      },
+      {
+        "modelo": "JP-500",
+        "versao": "7.17.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Jetway/Jetway_JP-500_Printer_Driver_v7.17.exe",
+          "driver_x64": null,
+          "usb_serial": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-500_Driver_USB_Serial.exe",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-500_PrinterTest.zip",
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Jetway%20JP-500.pdf"
+        }
+      },
+      {
+        "modelo": "JP-800",
+        "versao": "2.38E.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Jetway/Jetway_JP-800_PrinterDriver_v2.38E.exe",
+          "driver_x64": null,
+          "usb_serial": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-800_PL23XX-M_LogoDriver_Setup.exe",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Jetway_JP-800_PrinterTool.zip",
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Jetway%20JP-800.pdf"
+        }
+      }
+    ],
+    "Ledtec": [
+      {
+        "modelo": "PMF",
+        "versao": "1.0.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Ledtec/ENGWORKS_Printers_Win7_x86.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Ledtec/ENGWORKSPrinters_Win8_10_x64.exe",
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Mafra": [
+      {
+        "modelo": "Mafra",
+        "versao": "11.3.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Menno": [
+      {
+        "modelo": "IT 250",
+        "versao": "2.52",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Menno/Menno_Printer_Driver_v2.52.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "iTD 250",
+        "versao": "2.52",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Menno/Menno_Printer_Driver_v2.52.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "LT56050",
+        "versao": "2.52",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Menno/Menno_Printer_Driver_v2.52.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "LT76050",
+        "versao": "2.52",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Menno/Menno_Printer_Driver_v2.52.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Oi Vida": [
+      {
+        "modelo": "OI-58H",
+        "versao": "11.3.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "OI-1005",
+        "versao": "11.3.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "OI-1007",
+        "versao": "11.3.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "OI-1006",
+        "versao": "11.3.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Perto": [
+      {
+        "modelo": "PertoPrinter",
+        "versao": "2.5.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/PertoPrinter/PertoPrinter_Driver_2.5.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Perto%20PertoPrinter.pdf"
+        }
+      }
+    ],
+    "POS": [
+      {
+        "modelo": "POS58",
+        "versao": "11.3.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "POS80",
+        "versao": "11.3.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe",
+          "driver_x64": null,
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Star": [
+      {
+        "modelo": "BSC10",
+        "versao": "2.1.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_BSC10_Drivers_v2.1_x86.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_BSC10_Drivers_v2.1_x64.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "FVP10",
+        "versao": "3.7.2",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "MCP20",
+        "versao": "3.1.1",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.1.1.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.1.1.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "MCP21",
+        "versao": "3.1.1",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.1.1.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.1.1.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "MCP30",
+        "versao": "3.1.1",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.1.1.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.1.1.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "MCP31",
+        "versao": "3.1.1",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.1.1.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.1.1.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "POP10",
+        "versao": "3.1.1",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.1.1.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.1.1.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "SP512",
+        "versao": "3.7.2",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "SP542",
+        "versao": "3.7.2",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "SP712",
+        "versao": "3.7.2",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "SP717",
+        "versao": "3.7.2",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "SP742",
+        "versao": "3.7.2",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "SP747",
+        "versao": "3.7.2",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TSP043",
+        "versao": "2.1.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_TSP043_x86_v2.1.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_TSP043_x64_v2.1.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TSP143IVUE",
+        "versao": "3.1.1",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.1.1.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.1.1.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TSP650II",
+        "versao": "3.7.2",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TSP700II",
+        "versao": "3.7.2",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TSP800II",
+        "versao": "3.7.2",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x86_v3.7.2.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Star/Star_PrinterDrivers_x64_v3.7.2.exe",
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Sweda": [
+      {
+        "modelo": "SI-150",
+        "versao": "1.0.0.1",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-150_SI-250_Drivers_v1.001.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-150_SI-250_Drivers_v1.001.exe",
+          "utility": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Sweda%20SI-150.pdf"
+        }
+      },
+      {
+        "modelo": "SI-250",
+        "versao": "1.0.0.1",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-150_SI-250_Drivers_v1.001.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-150_SI-250_Drivers_v1.001.exe",
+          "utility": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Sweda%20SI-250.pdf"
+        }
+      },
+      {
+        "modelo": "SI-300L",
+        "versao": "1.2.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe",
+          "utility": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Sweda%20SI-300-L-S-W.pdf"
+        }
+      },
+      {
+        "modelo": "SI-300S",
+        "versao": "1.2.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe",
+          "utility": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Sweda%20SI-300-L-S-W.pdf"
+        }
+      },
+      {
+        "modelo": "SI-300E",
+        "versao": "1.2.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe",
+          "utility": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Sweda%20SI-300-L-S-W.pdf"
+        }
+      },
+      {
+        "modelo": "SI300W",
+        "versao": "1.2.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe",
+          "driver_x64": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Sweda/Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe",
+          "utility": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Sweda%20SI-300-L-S-W.pdf"
+        }
+      }
+    ],
+    "Tanca": [
+      {
+        "modelo": "TMP-500",
+        "versao": "2.61T.0.0",
+        "observacao": null,
+        "download": {
+          "driver": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TMP-500_v2.61T.exe",
+          "utility": null
+        }
+      },
+      {
+        "modelo": "TP-450",
+        "versao": "2.29E.0",
+        "observacao": null,
+        "download": {
+          "driver": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TP-450_Driver_v2.29E.exe",
+          "utility": null
+        }
+      },
+      {
+        "modelo": "TP-509",
+        "versao": "2.62.0.0",
+        "observacao": null,
+        "download": {
+          "driver": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TP-509_DriverInstall_v2.62.exe",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Tanca_TP-509_PrinterTool_v2.22.exe"
+        }
+      },
+      {
+        "modelo": "TP-550",
+        "versao": "8.1.1.2",
+        "observacao": null,
+        "download": {
+          "driver": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TP-550_Printer_Driver_v8.1.1.2.exe",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Tanca_TP-550_PrinterTool.exe"
+        }
+      },
+      {
+        "modelo": "TP-620",
+        "versao": "6.1.0.0",
+        "observacao": null,
+        "download": {
+          "driver": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TP-620_Driver_v6.1.0.exe",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Tanca_TP-620_Utility_v3.2.0.1.exe"
+        }
+      },
+      {
+        "modelo": "TP-650",
+        "versao": "2.11.0.0",
+        "observacao": null,
+        "download": {
+          "driver": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Tanca/Tanca_TP-650_DriverInstall_v2.11.exe",
+          "utility": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Utilities/Tanca_TP-650_PrinterTool_1.48E.exe"
+        }
+      }
+    ],
+    "Waytec": [
+      {
+        "modelo": "WP-50",
+        "versao": "7.17.0.0",
+        "observacao": null,
+        "download": {
+          "driver": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Waytec/WayTec_WP-50_Driver_v7.17.50.exe",
+          "utility": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/c7c765698f77fc6cbf4338af53eb7f9281705d39/Manuals/Waytec_WP-50.pdf"
+        }
+      },
+      {
+        "modelo": "WP-100",
+        "versao": "7.17.0.0",
+        "observacao": null,
+        "download": {
+          "driver": "https://raw.githubusercontent.com/Delutto/thermal_printers/main/Waytec/Waytec_WP-100_Driver_v7.17.exe",
+          "utility": null,
+          "manual": "https://raw.githubusercontent.com/Delutto/thermal_printers/c7c765698f77fc6cbf4338af53eb7f9281705d39/Manuals/Waytec_WP-50.pdf"
+        }
+      }
+    ]
+  }
+}
