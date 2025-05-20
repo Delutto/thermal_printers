@@ -101,6 +101,7 @@ explorer shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}
 |-----------|-----------|-----------------------------|
 |TM-T20     |5.6.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T20_v5.6.0.0.exe)|
 |TM-T20X    |6.1.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T20X_v6.1.0.0.exe)|
+|TM-T20X II |6.9.1.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/refs/heads/main/Epson/Epson_TM-20X-II_Driver_v6.9.1.0.exe)|
 |TM-T81     |15.0.0.498 |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T81_v15.0.0.498.exe)|
 |TM-T88 III |4.0.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_III_v4.exe) - [VirtualCOM](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_III_VirtualPort.exe)|
 |TM-T88 IV  |4.0.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Epson/Epson_TM-T88_IV_4.0.0.0.exe)|
