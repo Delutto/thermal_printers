@@ -131,7 +131,7 @@ explorer shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}
 ## Gertec
 | Modelo    |Versão     |Download                     |
 |-----------|-----------|-----------------------------|
-|G250       |1.1.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Gertec/Driver-G250-Spooler_VCOM-v1.1.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Gertec%20G250.pdf)|
+|G250       |1.1.0.0    |[Driver](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Gertec/Driver-G250-Spooler_VCOM-v1.1.exe) - [Utility](https://github.com/Delutto/thermal_printers/raw/refs/heads/main/Utilities/Gertec_G250_Utility_v2.57.exe) - [Manual](https://raw.githubusercontent.com/Delutto/thermal_printers/main/Manuals/Gertec%20G250.pdf)|
 
 ## Jetway
 | Modelo    |Versão     |Download                     |
